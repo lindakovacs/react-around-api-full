@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-around-api/full/static/css/main.13c3433b.chunk.css",
-    "main.js": "/react-around-api/full/static/js/main.f87f1123.chunk.js",
-    "main.js.map": "/react-around-api/full/static/js/main.f87f1123.chunk.js.map",
-    "runtime-main.js": "/react-around-api/full/static/js/runtime-main.c7bf46ba.js",
-    "runtime-main.js.map": "/react-around-api/full/static/js/runtime-main.c7bf46ba.js.map",
-    "static/js/2.37a0e66a.chunk.js": "/react-around-api/full/static/js/2.37a0e66a.chunk.js",
-    "static/js/2.37a0e66a.chunk.js.map": "/react-around-api/full/static/js/2.37a0e66a.chunk.js.map",
-    "index.html": "/react-around-api/full/index.html",
-    "precache-manifest.4d81ee9a38b045b58ab5723da6a98156.js": "/react-around-api/full/precache-manifest.4d81ee9a38b045b58ab5723da6a98156.js",
-    "service-worker.js": "/react-around-api/full/service-worker.js",
-    "static/css/main.13c3433b.chunk.css.map": "/react-around-api/full/static/css/main.13c3433b.chunk.css.map",
-    "static/js/2.37a0e66a.chunk.js.LICENSE.txt": "/react-around-api/full/static/js/2.37a0e66a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/react-around-api/full/static/media/trash-can.f202ad30.svg",
-    "static/media/logo.svg": "/react-around-api/full/static/media/logo.8f7611ae.svg"
+    "main.css": "/react-around-api-full/static/css/main.cc247755.chunk.css",
+    "main.js": "/react-around-api-full/static/js/main.e407db5e.chunk.js",
+    "main.js.map": "/react-around-api-full/static/js/main.e407db5e.chunk.js.map",
+    "runtime-main.js": "/react-around-api-full/static/js/runtime-main.6166e381.js",
+    "runtime-main.js.map": "/react-around-api-full/static/js/runtime-main.6166e381.js.map",
+    "static/js/2.37a0e66a.chunk.js": "/react-around-api-full/static/js/2.37a0e66a.chunk.js",
+    "static/js/2.37a0e66a.chunk.js.map": "/react-around-api-full/static/js/2.37a0e66a.chunk.js.map",
+    "index.html": "/react-around-api-full/index.html",
+    "precache-manifest.bdc5cb68455aa4789fea960d450c64b1.js": "/react-around-api-full/precache-manifest.bdc5cb68455aa4789fea960d450c64b1.js",
+    "service-worker.js": "/react-around-api-full/service-worker.js",
+    "static/css/main.cc247755.chunk.css.map": "/react-around-api-full/static/css/main.cc247755.chunk.css.map",
+    "static/js/2.37a0e66a.chunk.js.LICENSE.txt": "/react-around-api-full/static/js/2.37a0e66a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-around-api-full/static/media/trash-can.f202ad30.svg",
+    "static/media/logo.svg": "/react-around-api-full/static/media/logo.8f7611ae.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7bf46ba.js",
+    "static/js/runtime-main.6166e381.js",
     "static/js/2.37a0e66a.chunk.js",
-    "static/css/main.13c3433b.chunk.css",
-    "static/js/main.f87f1123.chunk.js"
+    "static/css/main.cc247755.chunk.css",
+    "static/js/main.e407db5e.chunk.js"
   ]
 }
